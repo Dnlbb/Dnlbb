@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+i'm+Daniil)](https://git.io/typing-svg)   
-### 📫 telegram [@dnlbykov](https://t.me/dnlbykov) 
-### 📎 my telegram group [Mindstorm](https://t.me/mindstormm)
-###  &nbsp;Languages:
+### 📫 Telegram [@dnlbykov](https://t.me/dnlbykov) 
+### 📎 My telegram group [Mindstorm](https://t.me/mindstormm)
+### 💻 &nbsp;Languages:
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
