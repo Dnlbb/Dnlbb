@@ -1,5 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+i'm+Daniil)](https://git.io/typing-svg)   
 ### 📫 telegram [@dnlbykov](https://t.me/dnlbykov) 
+### 📎 my telegram group [Mindstorm](https://t.me/mindstormm)
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
