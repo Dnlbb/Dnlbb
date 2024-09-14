@@ -2,7 +2,6 @@
 ### 📫 telegram [@dnlbykov](https://t.me/dnlbykov) 
 ### 📎 my telegram group [Mindstorm](https://t.me/mindstormm)
 ### 🛠 &nbsp;Languages and Tools :
-<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
 ### 🛠 &nbsp;Languages and Tools :
 <p>
