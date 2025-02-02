@@ -11,6 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnlbb&show_icons=true&theme=transparent)
+
+
 <!-- <img src="https://www.ve -->
 <!--
 **Dnlbb/Dnlbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
